@@ -1,3 +1,5 @@
 Before using the program this program supported with Wifi-Manager
 Supposed to be change: blnyk configuration, pin, determine your component support active high/active low(correct high/low relay or the other)
+DONT FORGET TO LOGIN ADDRESS WIFI MANAGER TO CHOOSE YOUR WIFI AS A CONNECTION (get it in the serial monitor and reset your micro)
+IF THERE IS SOMETHING PLEASE CHECK THE CODE, ALL OF THEM IS THERE
 THANKYOU-
